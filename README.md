@@ -2,7 +2,9 @@
 
 ## 🔮 Welcome to My GitHub Garden!
 
-html
+## 🔮 Welcome to My GitHub Garden!
+
+```html
 <div align="center">
   <svg width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
     <!-- Animated gradient background -->
