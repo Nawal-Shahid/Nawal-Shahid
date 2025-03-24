@@ -1,11 +1,8 @@
-name: Update Profile Garden
+name: Beautiful Garden
 on:
   schedule:
-    - cron: '0 12 * * *' # Daily at noon UTC
+    - cron: '0 12 * * *' # Updates daily at noon UTC
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   update-garden:
@@ -19,18 +16,24 @@ jobs:
           python-version: '3.10'
       
       - name: Install dependencies
-        run: |
-          pip install PyGithub python-dateutil numpy
+        run: pip install PyGithub python-dateutil numpy
       
-      - name: Generate Garden
+      - name: Create garden script
+        run: |
+          mkdir -p .github/scripts
+          cat << 'EOF' > .github/scripts/garden.py
+          # [PASTE THE FULL PYTHON SCRIPT FROM BELOW HERE]
+          EOF
+      
+      - name: Generate beautiful garden
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/generate_garden.py
+        run: python .github/scripts/garden.py
       
       - name: Commit and push
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "🌱 Update contribution garden [skip ci]"
+          git commit -m "🌸 Updated beautiful garden"
           git push
