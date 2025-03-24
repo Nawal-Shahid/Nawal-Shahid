@@ -1,0 +1,35 @@
+name: Update Garden
+on:
+  schedule:
+    - cron: '0 12 * * *' # Updates daily at noon
+  workflow_dispatch: # Lets you run manually
+
+jobs:
+  update-garden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install tools
+        run: pip install PyGithub python-dateutil
+      
+      - name: Make garden script
+        run: |
+          mkdir -p .github/scripts
+          echo 'YOUR_PYTHON_SCRIPT' > .github/scripts/garden.py
+      
+      - name: Run garden
+        run: python .github/scripts/garden.py
+      
+      - name: Save changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "🌱 Garden update"
+          git push
