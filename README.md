@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub! 💜</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nawal-shahid113&label=Profile+Views&color=BD93F9&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=Nawal-Shahid&label=Profile+Views&color=BD93F9&style=flat">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Tools-GitHub-8A2BE2?style=flat&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/OS-Linux-important?style=flat&logo=linux&logoColor=white">
-  <a href="https://www.linkedin.com/in/nawal-shahid113">
+  <a href="https://www.linkedin.com/in/nawal-shahid-015529263/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="https://medium.com/@nawal.shahid113">
@@ -35,8 +35,8 @@
 ### 📊 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawal-shahid113&show_icons=true&theme=dracula" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawal-shahid113&theme=dracula" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nawal-Shahid&show_icons=true&theme=dracula" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawal-Shahid&theme=dracula" width="48%">
 </p>
 
 ---
@@ -44,14 +44,14 @@
 ### 🔥 My Top Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawal-shahid113&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula">
 </p>
 
 ---
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/nawal-shahid113">
+  <a href="https://www.linkedin.com/in/nawal-shahid-015529263/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:nawal.shahid113@gmail.com">
