@@ -1,8 +1,13 @@
 <h1 align="center">Welcome to My GitHub! 💜</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BD93F9&center=true&width=500&lines=Software+Engineer;Frontend+Developer;ML+Enthusiast;Tech+Writer;Problem+Solver">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nawal-Shahid&label=Profile+Views&color=BD93F9&style=flat">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white">
@@ -23,6 +28,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BD93F9&height=120&section=header">
+</p>
 
 ### 💜 About Me
 - 🚀 **Software Engineer | Frontend Developer | Data Enthusiast**
