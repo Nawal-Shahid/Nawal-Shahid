@@ -17,7 +17,7 @@
   <a href="https://medium.com/@nawal.shahid113">
     <img src="https://img.shields.io/badge/Blog-Medium-black?style=flat&logo=medium&logoColor=white">
   </a>
-  <a href="https://leetcode.com/your-username">
+  <a href="[https://leetcode.com/your-username](https://leetcode.com/u/Nawal18/)">
     <img src="https://img.shields.io/badge/Coding-LeetCode-orange?style=flat&logo=leetcode&logoColor=white">
   </a>
 </p>
