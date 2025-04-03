@@ -41,8 +41,9 @@
 ### 📊 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawal-Shahid&theme=dracula" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nawal-Shahid&show_icons=true&theme=dracula" width="60%">
 </p>
+
 
 ---
 
