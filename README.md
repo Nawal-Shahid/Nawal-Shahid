@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/Blog-Medium-black?style=flat&logo=medium&logoColor=white">
   </a>
 </p>
-
 ---
 
 <p align="center">
