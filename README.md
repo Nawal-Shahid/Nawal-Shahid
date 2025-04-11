@@ -8,7 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Nawal-Shahid&label=Profile+Views&color=BD93F9&style=flat">
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-React-blueviolet?style=flat&logo=react&logoColor=white">
