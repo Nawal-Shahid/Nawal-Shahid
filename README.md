@@ -34,8 +34,6 @@
 - 🎯 Currently working on **DigiLex**, my final year project
 
 ---
-
-
 <!--  ### 📊 My GitHub Stats  
 
 <p align="center">
