@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to My GitHub! 💜</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BD93F9&center=true&width=500&lines=Software+Engineer;Frontend+Developer;ML+Enthusiast;Tech+Writer;Problem+Solver">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=BD93F9&center=true&width=500&lines=Software+Engineer;Frontend+Developer;Mobile+App+Developer;ML+Enthusiast;Tech+Writer;Problem+Solver">
 </p>
 
 <p align="center">
@@ -28,10 +28,10 @@
 </p>
 
 ### 💜 About Me
-- 🚀 **Software Engineer | Frontend Developer | Data Enthusiast**
-- 📖 Learning **DSA, Machine Learning, and Game Development**
-- ✍️ Writing tech articles on [Medium](https://medium.com/@nawal.shahid113)
-- 🎯 Currently working on **DigiLex**, my final year project
+- **Software Engineer | Frontend Developer | Data Enthusiast**
+- Learning **DSA, Machine Learning, and Game Development**
+- Writing tech articles on [Medium](https://medium.com/@nawal.shahid113)
+- Currently working on **DigiLex**, my final year project
 
 ---
 <!--  ### 📊 My GitHub Stats  
@@ -43,15 +43,25 @@
 
 
 
-### 🔥 My Top Languages  
+### My Top Languages  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula">
 </p>
 
 ---
+### Featured Projects
 
-### 📫 Connect with Me  
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [DigiLex](https://github.com/Nawal-Shahid/Digilex-App) | A gamified learning platform empowering dyslexic learners through adaptive tools and cognitive training. | React Native, Firebase, TensorFlow, Python |
+| [Movie Explorer App](https://github.com/Nawal-Shahid/movieexplorer) | Android app to explore and search movies using TMDB API. | Java, Retrofit, MVVM |
+| [News Classifier System] | Classifies news articles using ML models into relevant categories. | Python, Scikit-learn, Streamlit |  {Coming Soon}
+
+---
+
+
+### Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/nawal-shahid-015529263/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
