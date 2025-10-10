@@ -54,9 +54,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [DigiLex](https://github.com/Nawal-Shahid/Digilex-App) | A gamified learning platform empowering dyslexic learners through adaptive tools and cognitive training. | React Native, Firebase, TensorFlow, Python |
+| [DigiLex](https://github.com/Nawal-Shahid/Digilex-App) | A gamified learning platform empowering dyslexic learners through adaptive tools and cognitive training. | React Native, Firebase, JavaScript, Kotlin |
 | [Movie Explorer App](https://github.com/Nawal-Shahid/movieexplorer) | Android app to explore and search movies using TMDB API. | Java, Retrofit, MVVM |
-| [News Classifier System] | Classifies news articles using ML models into relevant categories. | Python, Scikit-learn, Streamlit |  {Coming Soon}
+| [News Classifier System] {Coming Soon} | Classifies news articles using ML models into relevant categories. | Python, Scikit-learn, Streamlit |  
 
 ---
 
