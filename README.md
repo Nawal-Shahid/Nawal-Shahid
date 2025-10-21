@@ -56,7 +56,7 @@
 |----------|--------------|-------------|
 | [DigiLex](https://github.com/Nawal-Shahid/Digilex-App) | A gamified learning platform empowering dyslexic learners through adaptive tools and cognitive training. | React Native, Firebase, JavaScript, Kotlin |
 | [Movie Explorer App](https://github.com/Nawal-Shahid/movieexplorer) | Android app to explore and search movies using TMDB API. | Java, Retrofit, MVVM |
-| [News Classifier System] {Coming Soon} | Classifies news articles using ML models into relevant categories. | Python, Scikit-learn, Streamlit |  
+| [News Classifier System](https://github.com/Nawal-Shahid/news_classifier/) | Automatically classifies news articles into Business, Entertainment, Politics, Sports, and Technology using ensemble machine learning. | Python · Scikit-learn · Streamlit |
 
 ---
 
