@@ -34,9 +34,9 @@
 - Currently working on **DigiLex**, my final year project
 
 ---
-## 💻 Top Languages
+### My Top Languages
 
-![Languages](metrics.plugin.languages.svg)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula)
 
 
 ---
