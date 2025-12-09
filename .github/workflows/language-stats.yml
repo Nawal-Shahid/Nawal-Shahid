@@ -1,9 +1,12 @@
 name: Generate Language Stats
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -13,6 +16,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Nawal-Shahid
+          filename: metrics.plugin.languages.svg
           template: classic
           base: ""
           plugin_languages: yes
