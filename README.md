@@ -34,8 +34,9 @@
 - Currently working on **DigiLex**, my final year project
 
 ---
-## 📌 GitHub Profile Stats
-![Repos](https://img.shields.io/badge/dynamic/json?color=informational&label=Repos&query=public_repos&url=https://api.github.com/users/Nawal-Shahid)
+## 💻 Top Languages
+
+![Languages](metrics.plugin.languages.svg)
 
 
 ---
