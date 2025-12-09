@@ -34,15 +34,8 @@
 - Currently working on **DigiLex**, my final year project
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nawal-Shahid&show_icons=true&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula&hide_border=true" />
-</p>
+## 📌 GitHub Profile Stats
+![Repos](https://img.shields.io/badge/dynamic/json?color=informational&label=Repos&query=public_repos&url=https://api.github.com/users/Nawal-Shahid)
 
 
 ---
