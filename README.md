@@ -34,15 +34,14 @@
 - Currently working on **DigiLex**, my final year project
 
 ---
-<!--  ### 📊 My GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawal-Shahid&theme=dracula" width="48%">
-</p>  
--->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nawal-Shahid&show_icons=true&theme=dracula&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 
