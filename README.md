@@ -36,7 +36,9 @@
 ---
 ### My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula" />
+</p>
 
 
 
