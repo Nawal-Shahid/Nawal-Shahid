@@ -36,7 +36,8 @@
 ---
 ### My Top Languages
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nawal-Shahid&layout=compact&theme=dracula)
+
 
 
 ---
